@@ -1,4 +1,4 @@
-# mycode (1st step to Python)
+# mycode (1st step to Python: Need to learn how to version control  projects with git)
 ##Getting started
 Work in progress
 ##Prerequisites
