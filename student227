@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+
+a = "Hello"
+b = "sam, "
+c = "My student number is"
+num = 227
+
+print ("'",a,b ,c , num, end=".'\n************************\n")
