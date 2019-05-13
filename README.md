@@ -1,2 +1,10 @@
-# mycode
+# mycode (1st step to Python)
+##Getting started
+Work in progress
+##Prerequisites
+Install python and pythin3 using apt
+##Built with
+*[Python] (https://www.python.org/) -THe coding language used
+##Authors
+* **Zubeda Quazi** - *Initial Work* - 
 learning to track my code
